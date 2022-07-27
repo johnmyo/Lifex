@@ -5,6 +5,7 @@ import Learn from '../views/LearnScreen/Learn';
 import Earn from '../views/EarnScreen/Earn';
 import Live from '../views/LiveScreen/Live';
 import Profile from '../views/Profile/Profile';
+import EditProfile from '../views/EditProfileScreen/EditProfile';
 
 const allRoutes = [
     {path: "/", component:Home},
@@ -14,6 +15,7 @@ const allRoutes = [
     {path: "/live", component:Live},
     {path: "/learn", component:Learn},
     {path: "/earn", component:Earn},
+    {path: "/edit_profile", component:EditProfile}
 ]
 
 export default allRoutes;

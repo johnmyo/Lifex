@@ -7,7 +7,10 @@ import Trending from '../TrendingScreen/Trending'
 const Home = () => {
   return (
     <>
-    <Tab/>
+    <Tab 
+    active="2px solid #E87642"
+    background="#E87642"
+    />
     <Trending/>
     </>
   )

@@ -33,7 +33,7 @@ const Section = (props) => {
           <p className='sub-title'>{props.subTitle}</p>
             </Col>
             <Col className='col-6'>
-            <Bookmark className='save-icon' size={25}/>
+            <Bookmark className='save-icon-1' size={25}/>
             </Col>
         </Row>
     </Container>

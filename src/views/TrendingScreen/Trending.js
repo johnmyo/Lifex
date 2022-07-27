@@ -1,5 +1,5 @@
 import React from 'react'
-import Section from '../../components/BookSection/Section'
+import Section from '../../components/TrendingBook/Section'
  
 
 
